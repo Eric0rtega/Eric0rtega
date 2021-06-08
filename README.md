@@ -15,7 +15,7 @@ I love to learn so I have a collection of books and not a few, it's an entire wa
 I recently started a collection of vintage tech, I will build on that in the future.
 
 Some other interests of mine are trying to fix non booting computers, ethical hacking, Raspberry Pi's, helping others when I can, entreprenuership and giving back.
-## SKills
+## Skills
 My skills currently are strongest in Data Analytics, although I have worked with numerous tools and languages to complete course work and projects.
 
 Apart from programming I have built a few websites in the past as personal projects. I also have a fairly strong background in design.
