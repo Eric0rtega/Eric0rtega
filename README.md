@@ -21,7 +21,6 @@ My skills currently are strongest in Data Analytics, although I have worked with
 Apart from programming I have built a few websites in the past as personal projects. I also have a fairly strong background in design.
 
 ## Current Projects
-- PDF Reader in Python
-- Personal Assistant with Python
+
 
 ## Thanks for stopping by!
